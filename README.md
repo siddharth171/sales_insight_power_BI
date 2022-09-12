@@ -1,0 +1,2 @@
+# sales_insight_power_BI
+Simulated a business scenario where a Computer Hardware and Peripheral Manufacturer has issues with the sales of its products. It has branches across India and tracking its business was a humongous task. The data was extracted, transformed, loaded into and presented in a powerful visualization using PowerBI. The visualizations helped to make better decisions on sales, revenues, profits and profit margins.
